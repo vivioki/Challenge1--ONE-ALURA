@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="esp">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="mainDiv">
+      <div>
+        <img class="logo" src="logoalura.png" alt="logoalura" />
+      </div>
+      <div class="principal-content">
+        <article>
+          <textarea
+            id="encriptarTextarea"
+            class="text"
+            placeholder="Ingrese texto aquí."
+          ></textarea>
+        </article>
+        <article class="letrasBotones">
+          <p>
+            <img src="Info.png" />
+            Solo letras minúsculas y sin acentos.
+          </p>
+
+          <button class="buttons" onclick="encriptarTexto()">Encriptar</button>
+          <button class="buttons" onclick="desencriptarTexto()">
+            Desencriptar
+          </button>
+        </article>
+      </div>
+      <div class="second-content">
+        <article>
+          <textarea
+            id="textoEncriptado"
+            class="textAreaEncriptado"
+            readonly
+          ></textarea>
+          <button id="botonCopiar" class="botonCopiado">Copiar</button>
+        </article>
+
+        <article id="articleMonoTexto" class="monoTexto">
+          <img src="Monito.png" />
+          <h2>Ningún mensaje fue encontrado.</h2>
+        </article>
+      </div>
+    </div>
+
+    <footer>
+      <p>▹Made by Evymar Hernandez</p>
+    </footer>
+  </body>
+  <script src="main.js"></script>
+</html>
