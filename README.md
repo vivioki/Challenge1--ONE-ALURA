@@ -1,4 +1,8 @@
-¡Acá está mi insignia por haber completado éste Challenge!
+¡Acá está mi insignia por haber completado éste Challenge! Para ver el proyecto, ingresar acá:
+file:///C:/Users/gbhr1/OneDrive/Escritorio/Evy/jsEvy/Challenge1/challenge.html
+
+
+
 
 
 
@@ -7,6 +11,9 @@
 
 
 # Challenge1--ONE-ALURA![insignia challenge 1 one y alura](https://github.com/vivioki/Challenge1--ONE-ALURA/assets/131423238/af372a46-3b64-4cd2-bb56-d00af64808b4)
+
+
+
 Los requisitos para obtenerlo fueron los siguientes:
 
 Se deben considerar las siguientes llaves de encriptación:
