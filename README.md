@@ -1,5 +1,5 @@
 ¡Acá está mi insignia por haber completado éste Challenge! Para ver el proyecto, ingresar acá:
-file:///C:/Users/gbhr1/OneDrive/Escritorio/Evy/jsEvy/Challenge1/challenge.html
+
 
 
 
