@@ -1,4 +1,4 @@
-¡Acá está mi insignia por haber completado éste Challenge! Para ver el proyecto, ingresar acá:
+¡Acá está mi insignia por haber completado éste Challenge! 
 
 
 
